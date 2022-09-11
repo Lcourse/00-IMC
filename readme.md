@@ -8,5 +8,5 @@
     <img aling="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     
     <p> 
-    <img width="640" height="360" src="src/imc-calc.gif" >
+    <img width="640" height="360" src="src/imc-calc.gif">
     </p>
